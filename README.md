@@ -33,7 +33,10 @@ I'm a software developer who creates thoughts into things through mobile applica
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Thet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thet9354&show_icons=true&theme=gruvbox)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 

@@ -37,7 +37,6 @@ I'm a software developer who creates thoughts into things through mobile applica
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-#
 
 <details>
  <summary><h3>👨‍💻 Thet's Coding Journey</h3></summary>

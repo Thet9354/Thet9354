@@ -31,7 +31,7 @@ I'm a software developer who creates thoughts into things through mobile applica
 
 ### 📊 Stats
 
-![Thet's GitHub stats]([https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=Thet9354&show_icons=true&theme=gruvbox))
+<p>![Thet's GitHub stats]([https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=Thet9354&show_icons=true&theme=gruvbox))</p>
 
 <p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compac](https://github-readme-stats.vercel.app/api/top-langs?username=Thet9354&show_icons=true&locale=en&layout=compact)t" alt="Thet9354" /></p>
 

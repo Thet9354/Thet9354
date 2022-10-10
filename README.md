@@ -29,19 +29,15 @@ I'm a software developer who creates thoughts into things through mobile applica
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
+#
+
 ### 📊 Stats
 
-<p>![Thet's GitHub stats]([https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=Thet9354&show_icons=true&theme=gruvbox))</p>
-
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compac](https://github-readme-stats.vercel.app/api/top-langs?username=Thet9354&show_icons=true&locale=en&layout=compact)t" alt="Thet9354" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
-
-
-
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+#
 #
 
 <details>

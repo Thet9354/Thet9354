@@ -4,19 +4,9 @@ Hello and welcome to my GitHub profile!
 
 My name is Thet and I am an app developer with a passion for building amazing apps that can make a positive impact in the world. I have been in the industry for over three years and have worked on a variety of projects ranging from small-scale applications to large-scale enterprise applications.
 
-## Skills and Expertise
-
-As an app developer, I specialize in building both Android and iOS apps using Android Studio and Xcode respectively. I am proficient in coding languages such as Java, Swift, HTML, CSS, JS, C, C++, and Python. With over 40 existing app projects, I have honed my skills and expertise to deliver high-quality, user-friendly, and functional applications that meet my clients' needs.
-
 ## My Approach
 
 My approach to app development is centered around collaboration, communication, and innovation. I believe in working closely with my clients to understand their needs, goals, and expectations. This helps me to create applications that not only meet their requirements but also exceed their expectations. I keep up-to-date with the latest trends and technologies in the industry, ensuring that I always provide innovative solutions to my clients.
-
-## Get in Touch
-
-I am always open to new opportunities, collaborations, and partnerships. If you have a project that you would like me to work on, or you simply want to discuss an idea or concept, please do not hesitate to get in touch with me. You can reach me through my GitHub profile or by email at [insert email address].
-
-Thank you for taking the time to read my introduction. I look forward to working with you!
 
 ---
 

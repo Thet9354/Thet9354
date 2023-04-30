@@ -1,7 +1,5 @@
 # 🏄‍♂️ Thet Pine
 
-# Introduction to Me - App Developer
-
 Hello and welcome to my GitHub profile! 
 
 My name is Thet and I am an app developer with a passion for building amazing apps that can make a positive impact in the world. I have been in the industry for over three years and have worked on a variety of projects ranging from small-scale applications to large-scale enterprise applications.

@@ -45,7 +45,17 @@ My approach to app development is centered around collaboration, communication, 
 #
 
 <details>
- <summary><h3>👨‍💻 Thet's Coding Journey</h3></summary>
-I started my coding journey as a naive Engineering with Business student with a passion to learn everything I could about the world of tech and business. I first chose this course of study due to the fact that i was unsure of with career path was suited for me. However, slowly i came to learn the pwer of programming and grew a strong passion for it. I self-taught myself android app development first and moved on to ios app development. I dreamt of one day being able to move over and world in the land of the tech, silicon valley where i would be with my kind. Until then , my desire and passion drives me everydy to pick up new challenges, solve new problems and work on side projects.
+ <summary><h3>👨‍💻 Thet's Tech Journey</h3></summary>
+# My Coding Journey
+
+My journey as a coder began when I was first introduced to programming through C++ during my undergraduate studies. I was fascinated by how a few lines of code could create a functioning program. This sparked my interest in programming and I knew that I wanted to pursue a career in this field.
+
+After my undergraduate studies, I started exploring different programming niches and soon picked Android app development as my primary focus. I was intrigued by the vast opportunities in this field and the potential to make a positive impact through building innovative apps that could solve real-world problems.
+
+I started by learning the basics of Android app development and soon began working on small-scale projects. As I gained more experience, I began taking on more challenging projects and expanding my skillset. Over the course of three years, I honed my skills and became proficient in developing high-quality, user-friendly, and functional Android applications.
+
+As I continued to develop my Android app development skills, I also started exploring other programming languages and niches. I soon picked up iOS development and expanded my skillset to include other languages such as Java, Swift, HTML, CSS, JS, C, and Python. This helped me to become a well-rounded developer, capable of tackling a variety of projects and challenges.
+
+Today, I am working as an Android app developer, building innovative and impactful apps that make a difference in people's lives. My journey as a coder has been an exciting and rewarding one, and I am constantly learning and growing as a developer.
 
 

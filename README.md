@@ -46,7 +46,6 @@ My approach to app development is centered around collaboration, communication, 
 
 <details>
  <summary><h3>👨‍💻 Thet's Tech Journey</h3></summary>
-# My Coding Journey
 
 My journey as a coder began when I was first introduced to programming through C++ during my undergraduate studies. I was fascinated by how a few lines of code could create a functioning program. This sparked my interest in programming and I knew that I wanted to pursue a career in this field.
 

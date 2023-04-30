@@ -35,7 +35,7 @@ My approach to app development is centered around collaboration, communication, 
 
 #
 
-### 📊 Stats
+### 📊 Thet's Stats
 
 ![Thet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thet9354&show_icons=true&theme=gruvbox)
 

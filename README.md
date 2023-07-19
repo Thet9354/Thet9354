@@ -1,4 +1,4 @@
-# 🏄‍♂️ Adrian Kang Joo Ann       
+# 🏄‍♂️ Thet Pine       
 
 Hello and welcome to my GitHub profile! 
 

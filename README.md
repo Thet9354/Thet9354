@@ -4,10 +4,6 @@ Hello and welcome to my GitHub profile!
 
 My name is Thet and I am an app developer with a passion for building amazing apps that can make a positive impact in the world. I have been in the industry for over three years and have worked on a variety of projects ranging from small-scale applications to large-scale enterprise applications.
 
-## My Approach
-
-My approach to app development is centered around collaboration, communication, and innovation. I believe in working closely with my clients to understand their needs, goals, and expectations. This helps me to create applications that not only meet their requirements but also exceed their expectations. I keep up-to-date with the latest trends and technologies in the industry, ensuring that I always provide innovative solutions to my clients.
-
 ---
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
